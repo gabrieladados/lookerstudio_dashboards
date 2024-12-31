@@ -9,7 +9,7 @@ Este repositório contém uma coleção de dashboards desenvolvidos no Looker St
 Este dashboard foi desenvolvido para monitorar o desempenho de um canal no YouTube, proporcionando insights detalhados sobre o engajamento do público, o crescimento do canal e a performance de cada vídeo.
 
 <p align="center">
-  <img alt="Dashboard de Desempenho no YouTube" src="https://github.com/user-attachments/assets/f35ba783-ee3b-498f-a521-bcfe6a9051c5" width="80%">
+  <img alt="Dashboard de Desempenho no YouTube" src="https://github.com/user-attachments/assets/d4c9a6b8-002d-47b5-9c8e-67060f70a673" width="80%">
 </p>
 
 ### 🔍 **Principais Indicadores:**
